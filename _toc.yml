@@ -4,3 +4,6 @@ chapters:
   - file: papers/README.md
     sections:
       - file: papers/paper.md
+  - file: literatures/README.md
+    sections:
+      - file: literatures/literature.md
