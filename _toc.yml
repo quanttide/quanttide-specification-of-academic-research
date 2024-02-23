@@ -1,9 +1,12 @@
 format: jb-book
 root: index.md
 chapters:
-  - file: papers/README.md
+  - file: researches/README.md
     sections:
-      - file: papers/paper.md
+      - file: researches/research.md
   - file: literatures/README.md
     sections:
       - file: literatures/literature.md
+  - file: papers/README.md
+    sections:
+      - file: papers/paper.md
